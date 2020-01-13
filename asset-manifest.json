@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VOSS/static/css/main.f3958e5a.chunk.css",
-    "main.js": "/VOSS/static/js/main.a088d463.chunk.js",
-    "main.js.map": "/VOSS/static/js/main.a088d463.chunk.js.map",
+    "main.js": "/VOSS/static/js/main.24764d2e.chunk.js",
+    "main.js.map": "/VOSS/static/js/main.24764d2e.chunk.js.map",
     "runtime-main.js": "/VOSS/static/js/runtime-main.3104ab8b.js",
     "runtime-main.js.map": "/VOSS/static/js/runtime-main.3104ab8b.js.map",
     "static/js/2.f091e6d9.chunk.js": "/VOSS/static/js/2.f091e6d9.chunk.js",
     "static/js/2.f091e6d9.chunk.js.map": "/VOSS/static/js/2.f091e6d9.chunk.js.map",
     "index.html": "/VOSS/index.html",
-    "precache-manifest.fe8075a32a37597f9866eedff692f79b.js": "/VOSS/precache-manifest.fe8075a32a37597f9866eedff692f79b.js",
+    "precache-manifest.a5c0a194212e5d9d689ec2d5206a402a.js": "/VOSS/precache-manifest.a5c0a194212e5d9d689ec2d5206a402a.js",
     "service-worker.js": "/VOSS/service-worker.js",
     "static/css/main.f3958e5a.chunk.css.map": "/VOSS/static/css/main.f3958e5a.chunk.css.map",
     "static/js/2.f091e6d9.chunk.js.LICENSE": "/VOSS/static/js/2.f091e6d9.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3104ab8b.js",
     "static/js/2.f091e6d9.chunk.js",
     "static/css/main.f3958e5a.chunk.css",
-    "static/js/main.a088d463.chunk.js"
+    "static/js/main.24764d2e.chunk.js"
   ]
 }
