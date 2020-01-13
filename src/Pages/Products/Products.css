@@ -1,0 +1,17 @@
+h1 {
+  font-weight: 200;
+  margin: 20px 0;
+}
+
+.productImage {
+  width: 100px;
+}
+.plus {
+  font-size: 40px;
+  color: #000000;
+  text-align: right;
+}
+.plus:hover {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}

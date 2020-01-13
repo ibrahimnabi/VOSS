@@ -1,0 +1,8 @@
+const ActionTypes = {
+  LOGIN: "LOGIN",
+  UPDATE_USERS: "UPDATE_USERS",
+  UPDATE_PRODUCTS: "UPDATE_PRODUCTS",
+  UPDATE_ORDERS: "UPDATE_ORDERS"
+};
+
+export default ActionTypes;
